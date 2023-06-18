@@ -1,2 +1,2 @@
 # econ_game_theory
-This class was called Economics of Strategies in Firms and Markets. 
+This class was called Economics of Strategies in Firms and Markets. I'm only going to post the projects that I created. Note that they are not coding related projects but its work that I enjoyed creating and would love to share. I think they're pretty creative, though relatively simple models for everyday market occurances. These files can be viewed in any Jupyter Notebook environment including: Google Colab, Jupyter Notebook, and Ed. 
